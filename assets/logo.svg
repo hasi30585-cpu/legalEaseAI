@@ -1,0 +1,28 @@
+<svg width="500" height="150" viewBox="0 0 500 150"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="500" height="150" rx="20"
+fill="#111827"/>
+
+<text
+x="250"
+y="80"
+text-anchor="middle"
+font-family="Arial, sans-serif"
+font-size="48"
+font-weight="bold"
+fill="white">
+⚖ LegalEase
+</text>
+
+<text
+x="250"
+y="115"
+text-anchor="middle"
+font-family="Arial, sans-serif"
+font-size="17"
+fill="#d1d5db">
+AI-Powered Legal Document Generator
+</text>
+
+</svg>
